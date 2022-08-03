@@ -1,0 +1,5 @@
+[workspace]
+members = [
+  "apps/my_service",
+  "libs/my_lib"
+]
